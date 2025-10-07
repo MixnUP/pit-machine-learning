@@ -1,4 +1,3 @@
-
 # PyMathematics - Machine Learning PIT
 
 This project contains scripts to process and clean energy and economy data for the Philippines, preparing it for machine learning tasks.
@@ -66,9 +65,31 @@ The data preparation process is divided into several scripts that need to be run
 
 After running all the data preparation scripts, the final, cleaned dataset will be available at `data/processed_energy_data_long.csv`. This dataset is ready to be used for training an AI model.
 
-## Forecasting Model
+## Custom Forecasting Model (from Scratch)
 
-This project includes a script to forecast the "Access to electricity (% of population)" using the Prophet library.
+This project also includes a simple linear regression model for forecasting, built from scratch to demonstrate the underlying principles.
+
+1.  **Train the Custom Model:**
+    This script trains the model and saves it to a `.pkl` file.
+    ```bash
+    cd custom_forecasting_model
+    python custom_linear_regression_forecast.py
+    ```
+    This will also save a plot of the forecast as `custom_forecast_plot.png`.
+
+2.  **Make Predictions with the Custom Model:**
+    Use the `predict.py` script to make predictions for a specific year using the saved model.
+    ```bash
+    # Navigate to the directory if you are not already there
+    cd custom_forecasting_model
+
+    # Run a prediction for a specific year
+    python predict.py 2035
+    ```
+
+## Streamlit Application
+
+A Streamlit application is provided to interact with the custom forecasting model.
 
 1.  **Install all dependencies:**
     Make sure you have installed all the required packages from `requirements.txt`:
@@ -76,14 +97,10 @@ This project includes a script to forecast the "Access to electricity (% of popu
     pip install -r requirements.txt
     ```
 
-2.  **Run the forecasting script:**
-    Navigate to the `forecasting_model` directory and run the script:
+2.  **Run the Streamlit app:**
+    Navigate to the `custom_forecasting_model` directory and run the app:
     ```bash
-    cd forecasting_model
-    python forecast_electricity_access.py
+    cd custom_forecasting_model
+    streamlit run streamlit_app.py
     ```
-
-3.  **Output:**
-    The script will:
-    -   Print the forecasted values for the next 10 years to the console.
-    -   Save a plot of the forecast, including historical data, to a file named `electricity_access_forecast.png` in the `forecasting_model` directory.
+    This will open the application in your web browser, allowing you to input a year and get predictions, as well as view the forecast plot.

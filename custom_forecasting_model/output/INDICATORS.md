@@ -1,0 +1,226 @@
+# Unique Indicators in the Dataset
+
+- `Adjusted net national income (annual % growth)`
+- `Adjusted net national income (constant 2015 US$)`
+- `Adjusted net national income (current US$)`
+- `Adjusted net national income per capita (annual % growth)`
+- `Adjusted net national income per capita (constant 2015 US$)`
+- `Adjusted net national income per capita (current US$)`
+- `Adjusted savings: consumption of fixed capital (% of GNI)`
+- `Adjusted savings: consumption of fixed capital (current US$)`
+- `Adjusted savings: education expenditure (% of GNI)`
+- `Adjusted savings: education expenditure (current US$)`
+- `Adjusted savings: energy depletion (% of GNI)`
+- `Adjusted savings: energy depletion (current US$)`
+- `Adjusted savings: gross savings (% of GNI)`
+- `Adjusted savings: mineral depletion (% of GNI)`
+- `Adjusted savings: mineral depletion (current US$)`
+- `Adjusted savings: natural resources depletion (% of GNI)`
+- `Adjusted savings: net forest depletion (% of GNI)`
+- `Adjusted savings: net forest depletion (current US$)`
+- `Adjusted savings: net national savings (% of GNI)`
+- `Adjusted savings: net national savings (current US$)`
+- `Agriculture, forestry, and fishing, value added (% of GDP)`
+- `Agriculture, forestry, and fishing, value added (annual % growth)`
+- `Agriculture, forestry, and fishing, value added (constant 2015 US$)`
+- `Agriculture, forestry, and fishing, value added (constant LCU)`
+- `Agriculture, forestry, and fishing, value added (current LCU)`
+- `Agriculture, forestry, and fishing, value added (current US$)`
+- `Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)`
+- `Alternative and nuclear energy (% of total energy use)`
+- `Charges for the use of intellectual property, payments (BoP, current US$)`
+- `Combustible renewables and waste (% of total energy)`
+- `Communications, computer, etc. (% of service exports, BoP)`
+- `Communications, computer, etc. (% of service imports, BoP)`
+- `Current account balance (% of GDP)`
+- `Current account balance (BoP, current US$)`
+- `DEC alternative conversion factor (LCU per US$)`
+- `Discrepancy in expenditure estimate of GDP (current LCU)`
+- `Electric power consumption (kWh per capita)`
+- `Electric power transmission and distribution losses (% of output)`
+- `Electricity production from coal sources (% of total)`
+- `Electricity production from hydroelectric sources (% of total)`
+- `Electricity production from natural gas sources (% of total)`
+- `Electricity production from oil sources (% of total)`
+- `Electricity production from oil, gas and coal sources (% of total)`
+- `Energy imports, net (% of energy use)`
+- `Energy use (kg of oil equivalent per capita)`
+- `Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)`
+- `Exports as a capacity to import (constant LCU)`
+- `Exports of goods and services (% of GDP)`
+- `Exports of goods and services (BoP, current US$)`
+- `Exports of goods and services (annual % growth)`
+- `Exports of goods and services (constant 2015 US$)`
+- `Exports of goods and services (constant LCU)`
+- `Exports of goods and services (current LCU)`
+- `Exports of goods and services (current US$)`
+- `Exports of goods, services and primary income (BoP, current US$)`
+- `External balance on goods and services (% of GDP)`
+- `External balance on goods and services (current LCU)`
+- `External balance on goods and services (current US$)`
+- `External debt stocks (% of GNI)`
+- `External debt stocks, total (DOD, current US$)`
+- `Final consumption expenditure (% of GDP)`
+- `Final consumption expenditure (annual % growth)`
+- `Final consumption expenditure (constant 2015 US$)`
+- `Final consumption expenditure (constant LCU)`
+- `Final consumption expenditure (current LCU)`
+- `Final consumption expenditure (current US$)`
+- `Foreign direct investment, net (BoP, current US$)`
+- `Foreign direct investment, net inflows (% of GDP)`
+- `Foreign direct investment, net inflows (BoP, current US$)`
+- `Foreign direct investment, net outflows (% of GDP)`
+- `Foreign direct investment, net outflows (BoP, current US$)`
+- `Fossil fuel energy consumption (% of total)`
+- `Fuel exports (% of merchandise exports)`
+- `Fuel imports (% of merchandise imports)`
+- `GDP (constant 2015 US$)`
+- `GDP (constant LCU)`
+- `GDP (current LCU)`
+- `GDP (current US$)`
+- `GDP deflator (base year varies by country)`
+- `GDP growth (annual %)`
+- `GDP per capita (constant 2015 US$)`
+- `GDP per capita (constant LCU)`
+- `GDP per capita (current LCU)`
+- `GDP per capita (current US$)`
+- `GDP per capita growth (annual %)`
+- `GDP per capita, PPP (constant 2021 international $)`
+- `GDP per capita, PPP (current international $)`
+- `GDP per unit of energy use (PPP $ per kg of oil equivalent)`
+- `GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent)`
+- `GDP, PPP (constant 2021 international $)`
+- `GDP, PPP (current international $)`
+- `GDP: linked series (current LCU)`
+- `GNI (constant 2015 US$)`
+- `GNI (constant LCU)`
+- `GNI (current LCU)`
+- `GNI (current US$)`
+- `GNI growth (annual %)`
+- `GNI per capita (constant 2015 US$)`
+- `GNI per capita (constant LCU)`
+- `GNI per capita (current LCU)`
+- `GNI per capita growth (annual %)`
+- `GNI per capita, Atlas method (current US$)`
+- `GNI per capita, PPP (constant 2021 international $)`
+- `GNI per capita, PPP (current international $)`
+- `GNI, Atlas method (current US$)`
+- `GNI, PPP (constant 2021 international $)`
+- `GNI, PPP (current international $)`
+- `GNI: linked series (current LCU)`
+- `General government final consumption expenditure (% of GDP)`
+- `General government final consumption expenditure (annual % growth)`
+- `General government final consumption expenditure (constant 2015 US$)`
+- `General government final consumption expenditure (constant LCU)`
+- `General government final consumption expenditure (current LCU)`
+- `General government final consumption expenditure (current US$)`
+- `Goods exports (BoP, current US$)`
+- `Goods imports (BoP, current US$)`
+- `Grants, excluding technical cooperation (BoP, current US$)`
+- `Gross capital formation (% of GDP)`
+- `Gross capital formation (annual % growth)`
+- `Gross capital formation (constant 2015 US$)`
+- `Gross capital formation (constant LCU)`
+- `Gross capital formation (current LCU)`
+- `Gross capital formation (current US$)`
+- `Gross domestic income (constant LCU)`
+- `Gross domestic savings (% of GDP)`
+- `Gross domestic savings (current LCU)`
+- `Gross domestic savings (current US$)`
+- `Gross national expenditure (% of GDP)`
+- `Gross national expenditure (constant 2015 US$)`
+- `Gross national expenditure (constant LCU)`
+- `Gross national expenditure (current LCU)`
+- `Gross national expenditure (current US$)`
+- `Gross national expenditure deflator (base year varies by country)`
+- `Gross savings (% of GDP)`
+- `Gross savings (% of GNI)`
+- `Gross savings (current LCU)`
+- `Gross savings (current US$)`
+- `Households and NPISHs Final consumption expenditure (annual % growth)`
+- `Households and NPISHs Final consumption expenditure (constant 2015 US$)`
+- `Households and NPISHs Final consumption expenditure (constant LCU)`
+- `Households and NPISHs Final consumption expenditure (current LCU)`
+- `Households and NPISHs Final consumption expenditure (current US$)`
+- `Households and NPISHs Final consumption expenditure per capita (constant 2015 US$)`
+- `Households and NPISHs Final consumption expenditure per capita growth (annual %)`
+- `Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)`
+- `Households and NPISHs Final consumption expenditure, PPP (current international $)`
+- `Households and NPISHs final consumption expenditure (% of GDP)`
+- `Households and NPISHs final consumption expenditure: linked series (current LCU)`
+- `Imports of goods and services (% of GDP)`
+- `Imports of goods and services (BoP, current US$)`
+- `Imports of goods and services (annual % growth)`
+- `Imports of goods and services (constant 2015 US$)`
+- `Imports of goods and services (constant LCU)`
+- `Imports of goods and services (current LCU)`
+- `Imports of goods and services (current US$)`
+- `Imports of goods, services and primary income (BoP, current US$)`
+- `Industry (including construction), value added (% of GDP)`
+- `Industry (including construction), value added (annual % growth)`
+- `Industry (including construction), value added (constant 2015 US$)`
+- `Industry (including construction), value added (constant LCU)`
+- `Industry (including construction), value added (current LCU)`
+- `Industry (including construction), value added (current US$)`
+- `Industry (including construction), value added per worker (constant 2015 US$)`
+- `Inflation, GDP deflator (annual %)`
+- `Inflation, consumer prices (annual %)`
+- `Insurance and financial services (% of service exports, BoP)`
+- `Insurance and financial services (% of service imports, BoP)`
+- `Investment in energy with private participation (current US$)`
+- `Medium and high-tech manufacturing value added (% manufacturing value added)`
+- `Mineral rents (% of GDP)`
+- `Natural gas rents (% of GDP)`
+- `Net ODA received (% of GNI)`
+- `Net ODA received per capita (current US$)`
+- `Net errors and omissions (BoP, current US$)`
+- `Net financial account (BoP, current US$)`
+- `Net official development assistance received (current US$)`
+- `Net primary income (BoP, current US$)`
+- `Net primary income (Net income from abroad) (current LCU)`
+- `Net primary income (Net income from abroad) (current US$)`
+- `Net secondary income (BoP, current US$)`
+- `Net trade in goods (BoP, current US$)`
+- `Net trade in goods and services (BoP, current US$)`
+- `Oil rents (% of GDP)`
+- `Ores and metals exports (% of merchandise exports)`
+- `Ores and metals imports (% of merchandise imports)`
+- `PPP conversion factor, GDP (LCU per international $)`
+- `PPP conversion factor, private consumption (LCU per international $)`
+- `Personal remittances, paid (current US$)`
+- `Personal remittances, received (% of GDP)`
+- `Personal remittances, received (current US$)`
+- `Personal transfers, receipts (BoP, current US$)`
+- `Portfolio equity, net inflows (BoP, current US$)`
+- `Portfolio investment, net (BoP, current US$)`
+- `Price level ratio of PPP conversion factor (GDP) to market exchange rate`
+- `Primary income payments (BoP, current US$)`
+- `Primary income receipts (BoP, current US$)`
+- `Reserves and related items (BoP, current US$)`
+- `Revenue, excluding grants (% of GDP)`
+- `Secondary income receipts (BoP, current US$)`
+- `Secondary income, other sectors, payments (BoP, current US$)`
+- `Service exports (BoP, current US$)`
+- `Service imports (BoP, current US$)`
+- `Services, value added (% of GDP)`
+- `Services, value added (annual % growth)`
+- `Services, value added (constant 2015 US$)`
+- `Services, value added (constant LCU)`
+- `Services, value added (current LCU)`
+- `Services, value added (current US$)`
+- `Services, value added per worker (constant 2015 US$)`
+- `Short-term debt (% of exports of goods, services and primary income)`
+- `Short-term debt (% of total reserves)`
+- `Technical cooperation grants (BoP, current US$)`
+- `Terms of trade adjustment (constant LCU)`
+- `Total debt service (% of GNI)`
+- `Total debt service (% of exports of goods, services and primary income)`
+- `Total natural resources rents (% of GDP)`
+- `Total reserves (includes gold, current US$)`
+- `Total reserves minus gold (current US$)`
+- `Trade (% of GDP)`
+- `Trade in services (% of GDP)`
+- `Transport services (% of service exports, BoP)`
+- `Transport services (% of service imports, BoP)`
+- `Travel services (% of service exports, BoP)`
+- `Travel services (% of service imports, BoP)`
