@@ -4,7 +4,7 @@
 - **Title:** Forecasting Energy Consumption: A Custom Linear Regression Approach
 - **Team Members:** [Your Names]
 - **Date:** [Presentation Date]
-- **Institution:** [Your Institution/Organization]
+- **Institution:** USTP
 - **Project Focus:** Machine Learning for Energy Consumption Prediction
 
 ## Slide 2: Rationale
@@ -55,6 +55,7 @@
     - Slope (m): 9.44 (kWh/year)
     - Intercept (c): -18,353.97
 - **Visual Analysis:**
+  {use custom_forecast_plot.png in /output}
   - Linear regression fit on training data (red line)
   - Predictions on test data (purple dashed line)
   - Future forecast (green dashed line)
