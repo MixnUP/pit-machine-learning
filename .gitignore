@@ -129,12 +129,6 @@ cython_debug/
 # VSCode
 .vscode/
 
-# Processed data
-data/processed_*.csv
-data/*_cleaned.csv
-data/*_final.csv
-data/*_long.csv
-
 # Virtual environment
 ml-pit/
 

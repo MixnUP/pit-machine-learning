@@ -49,17 +49,27 @@
 
 ## Slide 4: Results and Discussion
 ### Model Evaluation
-- Performance metrics:
-  - R-squared score
-  - Mean Absolute Error (MAE)
-  - Root Mean Square Error (RMSE)
-- Visualization of predictions vs actual values
-- Analysis of forecast accuracy
+- **Performance Metrics:**
+  - Root Mean Square Error (RMSE): 138.77 kWh per capita
+  - Model Parameters:
+    - Slope (m): 9.44 (kWh/year)
+    - Intercept (c): -18,353.97
+- **Visual Analysis:**
+  - Linear regression fit on training data (red line)
+  - Predictions on test data (purple dashed line)
+  - Future forecast (green dashed line)
 
 ### Key Findings
-- Trend analysis of electricity consumption
-- Model's predictive capabilities
-- Comparison with baseline models (if available)
+- **Trend Analysis:**
+  - Strong upward trend in electricity consumption
+  - Yearly increase: 9.44 kWh per capita per year
+- **Model Performance:**
+  - RMSE of 138.77 indicates good prediction accuracy relative to the scale of values
+  - Model effectively captures the linear trend in the data
+- **Forecast for Next 10 Years:**
+  - Predicted increase from 754.75 kWh (2025) to 839.68 kWh (2034)
+  - Total increase of 84.93 kWh (11.3%) by 2034
+  - Forecasted value for 2025: 754.75 kWh per capita
 
 ## Slide 5: Recommendation
 - **For Policy Makers:**
