@@ -2,8 +2,8 @@
 
 ## Slide 1: Title and Team Members
 - **Title:** Forecasting Energy Consumption: A Custom Linear Regression Approach
-- **Team Members:** [Your Names]
-- **Date:** [Presentation Date]
+- **Team Members:** Adriane Loquinte, Uriel Dionsay, Edgie Roszel Bajuyo
+- **Date:** 12/1/2025
 - **Institution:** USTP
 - **Project Focus:** Machine Learning for Energy Consumption Prediction
 
